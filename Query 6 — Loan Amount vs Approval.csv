@@ -1,0 +1,7 @@
+Loan_Size,Loan_Status,Total,Avg_Income
+"Small (Below 100K)",Y,85,3866.16
+"Medium (100K-200K)",N,86,4447.67
+"Medium (100K-200K)",Y,216,4753.11
+"Large (Above 200K)",Y,36,10561.61
+"Large (Above 200K)",N,23,10715.96
+"Small (Below 100K)",N,43,3819.37

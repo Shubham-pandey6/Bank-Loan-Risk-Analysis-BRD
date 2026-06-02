@@ -1,0 +1,7 @@
+Property_Area,Loan_Status,Total,Percentage
+Rural,N,57,40.43
+Rural,Y,84,59.57
+Semiurban,N,40,20.83
+Semiurban,Y,152,79.17
+Urban,Y,101,64.74
+Urban,N,55,35.26

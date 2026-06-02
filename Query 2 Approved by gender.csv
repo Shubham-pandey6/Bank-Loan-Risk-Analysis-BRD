@@ -1,0 +1,7 @@
+Gender,Loan_Status,Total,Percentage
+,N,5,55.56
+,Y,4,44.44
+Female,N,33,35.48
+Female,Y,60,64.52
+Male,Y,273,70.54
+Male,N,114,29.46

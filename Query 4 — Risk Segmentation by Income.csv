@@ -1,0 +1,9 @@
+Income_Band,Loan_Status,Total
+"High Income",N,25
+"High Income",Y,43
+"Low Income",N,43
+"Low Income",Y,104
+"Medium Income",N,70
+"Medium Income",Y,164
+"Very High Income",N,14
+"Very High Income",Y,26
